@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank manager Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.771">
+  <properties />
+  
+  
+            <testcase name="openAccountTest" time="0.560" classname="testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="0.211" classname="testcases.OpenAccountTest" />
+      
+</testsuite>

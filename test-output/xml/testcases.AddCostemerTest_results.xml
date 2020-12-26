@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank manager Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="1.073">
+  <properties />
+  
+            <testcase name="addCostemerTest" time="0.0" classname="testcases.AddCostemerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCostemerTest" time="0.0" classname="testcases.AddCostemerTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="addCostemerTest" time="0.213" classname="testcases.AddCostemerTest" />
+                <testcase name="addCostemerTest" time="0.284" classname="testcases.AddCostemerTest" />
+                <testcase name="addCostemerTest" time="0.574" classname="testcases.AddCostemerTest" />
+      
+</testsuite>
